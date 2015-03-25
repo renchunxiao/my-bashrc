@@ -9,7 +9,7 @@ alias cd5='cd ../../../../..'
 # git alias
 alias gf='git fetch'
 alias gp='git push'
-alias gc='git commit'
+alias gm='git commit'
 alias gs='git status'
 alias vi='vim'
 alias javac="javac -J-Dfile.encoding=utf8"
