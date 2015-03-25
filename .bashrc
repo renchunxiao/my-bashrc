@@ -6,11 +6,13 @@ alias cd2='cd ../..'
 alias cd3='cd ../../..'
 alias cd4='cd ../../../..'
 alias cd5='cd ../../../../..'
-# git alias
+# git alias begin
 alias gf='git fetch'
 alias gp='git push'
 alias gm='git commit'
 alias gs='git status'
+# git alias end
+alias reload='source ~/.bashrc'
 alias vi='vim'
 alias javac="javac -J-Dfile.encoding=utf8"
 alias grep='grep --color=always'
