@@ -11,6 +11,8 @@ alias gf='git fetch'
 alias gp='git push'
 alias gm='git commit'
 alias gs='git status'
+alias gb='git branch'
+alias gc='git checkout'
 # git alias end
 alias reload='source ~/.bashrc'
 alias vi='vim'
